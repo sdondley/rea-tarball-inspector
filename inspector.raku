@@ -12,7 +12,7 @@ use Identity::Utils;
 # .t, .pm, .pm6
 
 # How to run this script?
-# Clone of https://github.com/Raku/REA repository
+# Clone https://github.com/Raku/REA repository
 # Add this script to the top of the repo and execute it
 
 
